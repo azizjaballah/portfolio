@@ -31,14 +31,11 @@ This project focuses on building a Next-Generation SOC for a banking system, int
 │── 📜 NETWORK_SETUP.md             # OPNsense, firewall, IDS/IPS setup
 │── 📜 SIEM_SOAR_SETUP.md           # Wazuh, TheHive, Cortex, MISP integration
 │── 📜 AUTOMATION.md                # Shuffle SOAR workflows, auto-response setup
-│── 📜 MONITORING.md                # Prometheus, Grafana dashboards, and logs
 │── 📜 TESTING.md                   # Red team/blue team attack simulations
 │── 📜 TROUBLESHOOTING.md            # Common issues and fixes
 │── 📜 REFERENCES.md                 # Useful links, sources, and additional materials
 │── 📁 images/                      # Screenshots and diagrams
-│── 📁 scripts/                     # Automation scripts (Bash, Python, etc.)
-│── 📁 configs/                     # Configuration files (firewall rules, SIEM config, etc.)
-│── 📁 docs/                        # Additional documentation
+
 ```
 
 ## 📖 How to Use
