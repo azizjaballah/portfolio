@@ -122,6 +122,42 @@ This guide outlines the **installation, configuration, and automation** of these
 
 ---
 
+## 🚨 **Transition from ELK Stack (SIEM V1) to Wazuh**
+
+The **first iteration** of the SOC (V1) was initially built using the **ELK Stack (Elasticsearch, Logstash, Kibana)** as the SIEM solution. However, several challenges led to its replacement with Wazuh:
+
+### **🔴 Troubleshooting Challenges Faced with ELK Stack:**
+- **High Resource Consumption:** ELK required significant CPU and memory, making it inefficient for scaling.
+- **Complex Setup & Maintenance:** Integration with other SOC components was **time-consuming and required extensive manual configurations**.
+- **Frequent Data Loss & Indexing Issues:** Elasticsearch suffered from **frequent index corruptions**, requiring frequent manual reindexing and performance tuning.
+- **Alerting & Correlation Complexity:** The ELK stack lacked built-in security correlation and automated response, requiring additional configurations for event-based alerts.
+- **Difficult Log Ingestion:** Parsing logs into ELK was **inconsistent**, requiring constant modifications to Logstash pipelines.
+- **Limited Preconfigured Security Rules:** Unlike Wazuh, ELK **lacked built-in detection rules**, making rule creation highly manual.
+
+### **🔹 Commands Used to Mitigate Issues (but still faced stability problems)**
+- **Reindexing Elasticsearch:**
+   ```sh
+   curl -X POST "localhost:9200/_flush/synced"
+   ```
+- **Optimizing Heap Size for Elasticsearch:**
+   ```sh
+   echo '-Xms4g
+   -Xmx4g' > /etc/elasticsearch/jvm.options
+   ```
+- **Manually Clearing Logstash Queues:**
+   ```sh
+   rm -rf /var/lib/logstash/queue
+   systemctl restart logstash
+   ```
+- **Troubleshooting Beats Agent Disconnections:**
+   ```sh
+   journalctl -fu filebeat.service
+   ```
+
+Despite these mitigations, ELK Stack **remained unstable for SOC operations**, leading to the decision to migrate to Wazuh. 🚀
+
+---
+
 ## ✅ **Congratulations!** 🎉  
 You've successfully **set up the SIEM & SOAR environment** for the **Next-Gen SOC**! 🎯  
 This integration enables **centralized monitoring, real-time alerting, and automated responses**, making your SOC more **efficient and resilient**. 🚀
