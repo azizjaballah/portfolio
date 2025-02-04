@@ -3,7 +3,7 @@
 Hey there! 👋 I'm **Aziz Jaballah**, and I'm excited to share my **cybersecurity, SOC, DevSecOps, and IAM** projects with you. This portfolio is a collection of **real-world security implementations**, advanced **automation workflows**, and cutting-edge **threat intelligence integrations**.
 
 ## 🔥 Why You Should Explore This Repository
-I highly recommend checking out the **[Next-Gen SOC for Banking](portfolio/projects/next-gen-soc-banking/README.md)**—it’s packed with **detailed documentation, security automation strategies, and hands-on implementations** that could potentially **benefit you** in your own projects.  
+I highly recommend checking out the **[Next-Gen SOC for Banking](/projects/next-gen-soc-banking/README.md)**—it’s packed with **detailed documentation, security automation strategies, and hands-on implementations** that could potentially **benefit you** in your own projects.  
 
 Other **major projects** in this repository are in progress, and **exciting updates** are coming soon! Stay tuned for their releases. 🚀
 
