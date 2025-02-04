@@ -37,9 +37,9 @@ Throughout the development of this **Next-Gen SOC**, various **challenges and tr
 
 📌 **[Troubleshooting ANCS Documentation](../next-gen-soc-ancs/TROUBLESHOOTING_ANCS.md)**  
 
-📌 **[Final Report (English)](../next-gen-soc-ancs/FinalReportGB.md)**  
+📌 **[Final Report (English)](../next-gen-soc-ancs/FinalReportGB.pdf)**  
 
-📌 **[Final Report (French)](../next-gen-soc-ancs/FinalReportFR.md)**  
+📌 **[Final Report (French)](../next-gen-soc-ancs/FinalReportFR.pdf)**  
 
 These documents **cover real-world problems, command-level fixes, and security optimizations** applied to ensure **stability and efficiency** in this SOC environment.  
 
