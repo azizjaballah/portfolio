@@ -137,5 +137,5 @@ sudo systemctl restart logstash
 🔹 **Automating workflows with Shuffle SOAR required deep debugging**, especially API permissions.
 🔹 **Each integration (Wazuh, TheHive, Cortex, OPNsense) had specific compatibility issues** that required meticulous troubleshooting.
 
-This troubleshooting guide will help future engineers avoid these challenges and optimize SOC performance. 🚀🔒
-If you didn't find the solution of your problem here, give a try at **/projects/next-gen-soc-ancs/TROUBLESHOOTING_ANCS.md**
+🚨 If you didn't find the solution of your problem here, give a try at **/projects/next-gen-soc-ancs/TROUBLESHOOTING_ANCS.md** 🚀🔒
+
