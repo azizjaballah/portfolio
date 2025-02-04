@@ -56,8 +56,3 @@ The **OPNsense firewall** is the entry point for all network traffic and manages
 - **Firewall Protection:** OPNsense restricts unauthorized traffic.
 
 ---
-✅ Congratulations! 🎉 You've successfully set up the network infrastructure for the Next-Gen SOC. This lays the foundation for secure communication between all security components.
-
-However, networking in a SOC can become significantly more complex, especially when scaling beyond a single machine. If you're working with multiple physical hosts or need a distributed deployment across different VMs on separate machines, things like VLANs, site-to-site VPNs, or centralized monitoring across nodes come into play.
-
-We'll hopefully dive into these advanced topics another time—surely, since it's part of my current projects! 🚀 Stay tuned! 🔒
