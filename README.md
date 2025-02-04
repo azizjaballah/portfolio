@@ -18,7 +18,7 @@ A fully automated, **AI-enhanced Security Operations Center (SOC)** designed for
 - **Shuffle SOAR** → **Automated incident response**
 - **OPNsense & Suricata** → **Firewall security & IDS/IPS**
 
-📌 **[Read the Full Documentation Here](portfolio/projects/next-gen-soc-banking/README.md)**  
+📌 **[Read the Full Documentation Here](projects/next-gen-soc-banking/README.md)**  
 
 ---
 
@@ -42,8 +42,8 @@ If you're **passionate about SOC, cybersecurity automation, or DevSecOps**, feel
 - **Use the workflows & implementations** in your own projects.
 - **Reach out** if you want to collaborate or discuss security strategies.
 
-📧 **Email**: aziz.jaballah@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/azizjaballah](https://www.linkedin.com/in/azizjaballah)  
+📧 **Email**: azizjaballahde@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/azizjaballah](https://www.linkedin.com/in/aziz-jaballah/)  
 
 ---
   
