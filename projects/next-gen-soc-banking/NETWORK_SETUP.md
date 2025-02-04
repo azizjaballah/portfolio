@@ -128,6 +128,6 @@ We implement **multi-layered segmentation** to isolate security tools and simula
 ## ✅ **Congratulations!** 🎉  
 You've successfully **set up the network infrastructure** for the **Next-Gen SOC**! 🎯  
 
-However, **networking in a SOC** can become **significantly more complex**, especially when **scaling beyond a single machine**. If you're working with **multiple physical hosts** or need a **distributed deployment across different VMs on separate machines**, things like **VLANs, site-to-site VPNs, or centralized monitoring across nodes** come into play.  
+This version of the **network setup** is a **simplified implementation**, ensuring it remains **manageable** as part of this SOC project. However, **networking was one of the most complex phases**, with a **longer deadline** than the others. For this reason, a **more advanced version**—covering **multi-host deployments, VLANs, VPNs, and extended monitoring**—will be a **standalone project** rather than part of this repository.  
 
-We'll **hopefully dive into these advanced topics another time**—**surely, since it's part of my current projects!** 🚀 Stay tuned! 🔒
+Stay tuned for that! 🚀🔒
