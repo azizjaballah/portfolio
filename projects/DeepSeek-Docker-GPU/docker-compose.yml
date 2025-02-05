@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  ollama:
+    image: deepseek-gpu:latest
+    build: .
+    container_name: deepseek_server
+    ports:
+      - "11434:11434"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
