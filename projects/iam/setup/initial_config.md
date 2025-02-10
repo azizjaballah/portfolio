@@ -1,4 +1,3 @@
-````markdown
 # ⚙️ IAM Initial Configuration | 🔑 Secure Your Access
 
 Welcome, Security Guardian! 🏰 Now that you’ve installed Keycloak, it’s time to **configure realms, users, roles, and policies** to secure your IAM setup. Let’s build a strong authentication system! 🚀
@@ -115,5 +114,4 @@ Before integrating with other services, ensure everything works!
 ---
 
 🎉 **Congratulations, IAM Guardian!** You’ve successfully set up and secured your IAM system! 🏰🔥
-````
 
