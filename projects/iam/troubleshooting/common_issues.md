@@ -1,4 +1,3 @@
-````markdown
 # 🚨 Common Issues & Fixes | IAM Troubleshooting Guide
 
 Welcome, Troubleshooter! 🛠️ This guide covers **common IAM-related issues** and how to resolve them. If you’re facing authentication failures, log forwarding issues, or integration problems, this is the place to start. 🚀
@@ -104,5 +103,4 @@ If you’re still facing issues, refer to the **[Logs & Debugging Guide](logs_de
 ---
 
 🎯 **Next Steps:** If issues persist, proceed to **[Logs & Debugging](logs_debugging.md)** for further analysis! 🚀
-````
 
