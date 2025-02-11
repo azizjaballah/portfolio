@@ -73,4 +73,4 @@ Once the machine is joined, we need to verify authentication.
 
 ---
 
-🎉 **Congratulations, Domain Admin!** Your domain is live, and machines are securely connected! 🏰🔥
+🎉 **Congratulations, Domain Admin!** Your domain is live, and machines are securely connected!ss 🏰🔥
