@@ -114,4 +114,4 @@ Before integrating with other services, ensure everything works!
 ---
   
 
-➡️ **Next Step:** [Windows Domain Setup](windows_domain.md)
+➡️ **Next Step:** [Windows Domain Setup](windows_Domain.md)
