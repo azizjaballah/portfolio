@@ -110,8 +110,9 @@ Before integrating with other services, ensure everything works!
 
 ## **🎯 Next Mission: Integrate IAM with Other Systems!**
 📌 Now that your IAM setup is ready, it's time to **integrate it with SOC tools like Wazuh**! Continue to **[Integration Guide](windows_server.md)** for Windows Server integration. 🚀
-🎉 **Great job! Your IAM system is now configured with realms, users, and roles.** But to make it more secure and flexible, let’s dive into **advanced settings like custom authentication flows, RBAC, and SSO**.
+
 ---  
+
 
 ➡️ **Next Step:** [Advanced Configuration](advanced_config.md)
 
