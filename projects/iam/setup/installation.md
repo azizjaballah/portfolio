@@ -105,8 +105,9 @@ db-password=StrongPassword
 
 ## **🎯 Next Mission: Configuration & Integration!**
 📌 Now that Keycloak is installed, your next task is **setting up realms, roles, and user authentication policies.**  
-🚀 Continue to [Initial Configuration](initial_config.md) to complete the setup!  
+🎉 **Congratulations, Security Warrior!** You’ve successfully installed IAM and are ready to configure it for battle!🔥 
 
 ---
 
-🎉 **Congratulations, Security Warrior!** You’ve successfully installed IAM and are ready to configure it for battle! ⚔️🔥  
+🚀 Continue to [Initial Configuration](initial_config.md) to complete the setup! ⚔️
+  
