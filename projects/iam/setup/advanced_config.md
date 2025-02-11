@@ -109,8 +109,9 @@ Before integrating with other services, ensure everything works!
 ---
 
 ## **🎯 Next Mission: Integrate IAM with Other Systems!**
-📌 Now that your IAM setup is ready, it's time to **integrate it with SOC tools like Wazuh**! Continue to **[Integration Guide](windows_server.md)** for Windows Server integration. 🚀
+🚀 **Your IAM setup is now powerful with custom authentication flows and security hardening!** But to fully integrate with your infrastructure, we must first **set up a Windows domain and connect machines** to IAM.
 
 ---
+  
 
-🎉 **Congratulations, IAM Guardian!** You’ve successfully set up and secured your IAM system! 🏰🔥
+➡️ **Next Step:** [Windows Domain Setup](windows_domain_setup.md)
