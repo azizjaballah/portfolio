@@ -91,6 +91,10 @@ By connecting IAM with **Wazuh (SIEM)** and **Shuffle SOAR**, we enable real-tim
 
 ---
 🔍 **IAM and SOC (Wazuh) are now fully integrated!** But what if something goes wrong? Let’s look at **troubleshooting common IAM issues** to keep everything running smoothly.  
+---
+
+## **📢 Upcoming: Network Infrastructure Project**
+⚡ Stay tuned for an upcoming **standalone project** on **network infrastructure setup**! This will document how all machines from previous projects are connected via **OPNsense** and an **IAM solution on Linux**. Since this project covers a **wide range of configurations and troubleshooting**, solved problems from previous setups will be collected and linked here. It will be available soon in the **projects folder** under **[Home lab Network Infrastructure](../projects/homelab-Network-Infrastructure)**.
 
 ---
 ➡️ **Next Step:** [Troubleshooting](../troubleshooting/common_issues.md)
