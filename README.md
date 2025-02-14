@@ -5,7 +5,7 @@ Hey there! 👋 I'm **Aziz Jaballah**, and I'm excited to share my **cybersecuri
 ---
 
 ## 🔥 Why You Should Explore This Repository  
-I highly recommend checking out the **[Next-Gen SOC for Banking](/projects/next-gen-soc-banking/README.md)**, **[IAM & Access Security](/projects/IAM/README.md), and **[Next-Gen SOC for ANCS](/projects/next-gen-soc-ancs/README.md)**—each project features **detailed documentation, security automation strategies, and hands-on implementations** that could potentially **benefit you** in your own work.  
+I highly recommend checking out the **[Next-Gen SOC for Banking](/projects/next-gen-soc-banking/README.md)**, **[IAM & Access Security](/projects/IAM/README.md), and [Next-Gen SOC for ANCS](/projects/next-gen-soc-ancs/README.md)**—each project features **detailed documentation, security automation strategies, and hands-on implementations** that could potentially **benefit you** in your own work.  
 
 Other **major projects** in this repository are **actively evolving**, with **exciting updates coming soon**! Stay tuned. 🚀
 
