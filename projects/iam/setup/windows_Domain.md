@@ -69,7 +69,7 @@ Once the machine is joined, we need to verify authentication.
 ---
 
 ## **🎯 Next Mission: IAM Integration with Windows Server**
-📌 Now that the **domain is set up and Windows machines are connected**, it’s time to **integrate IAM with Windows Server for centralized authentication**. Continue to **[Windows Server Integration](projects/iam/integration/windows_server.md).** 🚀
+📌 Now that the **domain is set up and Windows machines are connected**, it’s time to **integrate IAM with Windows Server for centralized authentication**. Continue to **[Windows Server Integration](../integration/windows_server.md).** 🚀
 
 ---
 
