@@ -96,4 +96,4 @@ If the build **fails or vulnerabilities are detected**, a message is sent instan
 Security is not a phase. It's part of every commit, build, and deployment.
 
 ➡️ [Back to Installation Guide](installation.md)
-➡️ [View Monitoring Results](monitoring.md)
+➡️ [View Monitoring Results](MONITORING.md)
