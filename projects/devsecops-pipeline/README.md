@@ -2,7 +2,26 @@
 
 ## 📌 Overview
 This project showcases a **secure, production-grade DevSecOps pipeline** built using **Jenkins**, **Docker**, **SonarQube**, **Trivy**, **Gauntlt**, **Nexus**, and **Telegram integration**. It follows a complete **CI/CD lifecycle** with integrated **security gates**, ensuring that code pushed to GitHub is **tested, analyzed, scanned**, and **securely deployed**.
+---
 
+## 📂 Repository Structure
+Here's the current structure of this repository:
+
+```
+projects/
+└── devsecops-pipeline/
+    ├── README.md
+    ├── installation.md
+    ├── pipeline.md
+    ├── images/
+    │   ├── jenkins.png
+    │   ├── Sonarqube.png
+    │   ├── grafana.png
+    │   ├── telegram.png
+    │   └── trivy.png
+```
+
+---
 The project includes:
 - **Pre-commit checks** using `pre-commit`
 - **Static code analysis** using `SonarQube`
@@ -12,7 +31,6 @@ The project includes:
 - **Real-time notifications** via **Telegram**
 
 ---
-
 ## ⚙️ Pipeline Workflow
 
 ### **1️⃣ Clone Repository**
