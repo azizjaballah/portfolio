@@ -114,7 +114,21 @@ curl -s -X POST https://api.telegram.org/bot<BOT_TOKEN>/sendMessage \
 ---
 
 ## 📸 Screenshots
-> _Coming Soon: SonarQube dashboards, Trivy reports, Jenkins console logs_
+
+### 📊 Jenkins Dashboard
+![Jenkins Dashboard](../images/jenkins.png)
+
+### 📈 Grafana Monitoring Jenkins
+![Grafana](../images/grafana.png)
+
+### 📋 SonarQube Static Analysis
+![SonarQube](../images/sonarqube.png)
+
+### 🧪 Trivy Vulnerability Report
+![Trivy Scan](../images/trivy.png)
+
+### 📲 Telegram Bot Notification
+![Telegram](../images/telegram.png)
 
 ---
 
