@@ -165,4 +165,4 @@ Happy shipping securely! 🛳️🔐
 
 ## 📘 Continue Reading
 To understand the full CI/CD process and how each tool contributes to the DevSecOps pipeline:
-➡️ [Read the CI/CD Pipeline Documentation](pipeline.md)
+➡️ [Read the CI/CD Security Operations Documentation](SECURITY_OPERATIONS.md)
