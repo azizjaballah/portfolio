@@ -116,19 +116,19 @@ curl -s -X POST https://api.telegram.org/bot<BOT_TOKEN>/sendMessage \
 ## 📸 Screenshots
 
 ### 📊 Jenkins Dashboard
-![Jenkins Dashboard](projects/devsecops-pipeline/images/jenkins.png)
+![Jenkins Dashboard](images/jenkins.png)
 
 ### 📈 Grafana Monitoring Jenkins
-![Grafana](projects/devsecops-pipeline/images/grafana.png)
+![Grafana](images/grafana.png)
 
 ### 📋 SonarQube Static Analysis
-![SonarQube](projects/devsecops-pipeline/images/sonarqube.png)
+![SonarQube](images/sonarqube.png)
 
 ### 🧪 Trivy Vulnerability Report
-![Trivy Scan](projects/devsecops-pipeline/images/trivy.png)
+![Trivy Scan](images/trivy.png)
 
 ### 📲 Telegram Bot Notification
-![Telegram](projects/devsecops-pipeline/images/telegram.png)
+![Telegram](images/telegram.png)
 
 ---
 
