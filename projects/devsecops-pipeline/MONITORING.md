@@ -3,35 +3,35 @@
 ## 📊 Jenkins Pipeline View
 Below is a screenshot of the Jenkins Pipeline in action with all stages completed successfully:
 
-![Jenkins Pipeline](../../devsecops-pipeline/images/jenkins.png)
+![Jenkins Pipeline](images/jenkins.png)
 
 ---
 
 ## 📦 SonarQube Static Code Analysis
 The SonarQube dashboard showing a successful analysis with zero issues:
 
-![SonarQube Analysis](../../devsecops-pipeline/images/Sonarqube.png)
+![SonarQube Analysis](images/Sonarqube.png)
 
 ---
 
 ## 📈 Grafana Monitoring Dashboard
 Here is the Grafana dashboard showing Jenkins performance and system health metrics:
 
-![Grafana Dashboard](../../devsecops-pipeline/images/grafana.png)
+![Grafana Dashboard](images/grafana.png)
 
 ---
 
 ## 📬 Telegram Notifications
 Jenkins sends a message after the pipeline completes with the build status to a Telegram bot:
 
-![Telegram Alert](../../devsecops-pipeline/images/telegram.png)
+![Telegram Alert](images/telegram.png)
 
 ---
 
 ## 🛡️ Trivy Vulnerability Report
 Trivy detected vulnerabilities in the Docker image and generated a detailed report within the Jenkins job:
 
-![Trivy Scan](../../devsecops-pipeline/images/trivy.png)
+![Trivy Scan](images/trivy.png)
 
 ---
 
