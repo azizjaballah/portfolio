@@ -162,3 +162,7 @@ Place the `Jenkinsfile` in the root of your Git repo and trigger builds!
 ---
 
 Happy shipping securely! 🛳️🔐
+
+## 📘 Continue Reading
+To understand the full CI/CD process and how each tool contributes to the DevSecOps pipeline:
+➡️ [Read the CI/CD Pipeline Documentation](pipeline.md)
