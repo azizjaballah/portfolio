@@ -7,7 +7,7 @@ WORKDIR /app
 EXPOSE 11434
 
 # Pull the DeepSeek-R1:33B model
-RUN ollama pull deepseek-r1:33b
+RUN ollama pull deepseek-r1:7b
 
 # Start the server
 CMD ["ollama", "serve"]
