@@ -17,7 +17,7 @@ services:
       - ollama-data:/root/.ollama
     entrypoint: ["/bin/sh", "-c", "
       ollama serve & sleep 10 &&
-      if ! ollama list | grep -q deepseek; then ollama pull deepseek:33b; fi &&
+      if ! ollama list | grep -q deepseek; then ollama pull deepseek:7b; fi &&
       tail -f /dev/null"]
 
 volumes:
