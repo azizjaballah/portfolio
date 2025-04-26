@@ -21,10 +21,10 @@ This SOC was developed at the **National Agency for Computer Security (ANCS - CE
 ✅ **Automated Case Management in TheHive & Cortex**  
 ✅ **SOAR Playbooks for Active Response via Telegram & VirusTotal**
 
-📌 **[Read the Full Documentation Here](projects/next-gen-soc-ancs/README.md)**  
-📌 **[Troubleshooting & Technical Fixes](projects/next-gen-soc-ancs/TROUBLESHOOTING_ANCS.md)**  
-📌 **[Final Internship Report - English](projects/next-gen-soc-ancs/FinalReportGB.md)**  
-📌 **[Final Internship Report - French](projects/next-gen-soc-ancs/FinalReportFR.md)**  
+📌 **[Read the Full Documentation Here](projects/next-gen-soc-cert/README.md)**  
+📌 **[Troubleshooting & Technical Fixes](projects/next-gen-soc-cert/TROUBLESHOOTING_ANCS.md)**  
+📌 **[Final Internship Report - English](projects/next-gen-soc-cert/FinalReportGB.md)**  
+📌 **[Final Internship Report - French](projects/next-gen-soc-cert/FinalReportFR.md)**  
 
 ---
 
